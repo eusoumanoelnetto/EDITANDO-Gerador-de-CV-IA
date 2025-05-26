@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.17",
+    "html-pdf-node": "^1.0.8",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
